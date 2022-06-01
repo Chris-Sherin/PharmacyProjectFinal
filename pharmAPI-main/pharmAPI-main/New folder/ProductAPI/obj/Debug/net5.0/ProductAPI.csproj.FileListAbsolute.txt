@@ -1,0 +1,126 @@
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.exe
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.deps.json
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ref\ProductAPI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\ProductAPI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\scopedcss\bundle\ProductAPI.styles.css
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ref\ProductAPI.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.pdb
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\obj\Debug\net5.0\ProductAPI.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\source\repos\ProductAPI\ProductAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\appsettings.json
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.exe
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.deps.json
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.runtimeconfig.json
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.runtimeconfig.dev.json
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ref\ProductAPI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\ProductAPI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.AssemblyReference.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.AssemblyInfoInputs.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.AssemblyInfo.cs
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.CoreCompileInputs.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\staticwebassets\ProductAPI.StaticWebAssets.xml
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\scopedcss\bundle\ProductAPI.styles.css
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.csproj.CopyComplete
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ref\ProductAPI.dll
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.pdb
+D:\Pharmacy Final\pharmAPI-main\pharmAPI-main\New folder\ProductAPI\obj\Debug\net5.0\ProductAPI.genruntimeconfig.cache
